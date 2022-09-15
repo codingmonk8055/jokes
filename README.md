@@ -1,2 +1,2 @@
 # mayankporfolio
-it's a site abut mayank chouhan
+it's a site about mayank chouhan.
