@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+sp1{
+  float: left;
+}
+sp2{
+  float: right;
+}
+h1{
+  text-align: center;
+  margin: 2rem 20px;
+  
+}
+.container {
+/*     border: 5px solid red; */
+    padding: 55px 55px;
+    margin: 25vh 100px;
+  border-radius: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.container h2{
+  text-align: center;
+}
